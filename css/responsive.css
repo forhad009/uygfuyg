@@ -1,0 +1,106 @@
+@media (max-width: 1200px) {
+    .parcent-dd {
+        margin-bottom: 48px;
+    }
+    .pic-sec img {
+        width: 301px;
+    }
+    .conwrit h1 {
+        font-size: 35px;
+        margin-top: 0px;
+    }
+    .conwrit {
+        margin-top: 57px;
+    }
+    .conwrit p {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 992px) {
+    .picc-ard {
+        text-align: center;
+        
+    }
+    .another {
+        text-align: center;
+        margin: auto;
+    }
+    .conwrit {
+        margin-top: 24px;
+        text-align: center;
+    }
+    .pic-sec {
+        text-align: center;
+    }
+    .new-another {
+        position: relative;
+        top: 23px;
+       
+    }
+}
+
+
+@media (max-width: 768px) {
+    .conwrit {
+        
+        text-align: center;
+    }
+    .pic-sec {
+        text-align: center;
+    }
+    .new-another {
+        position: relative;
+        top: 24px;
+        left: 22px;
+    }.new-another {
+        position: relative;
+        top: 24px;
+        left: 22px;
+    }
+    .new-another {
+        position: relative;
+        top: 24px;
+        
+    }
+    
+}
+
+@media (max-width: 576px)  {
+    .conwrit h1 {
+        font-size: 21px;
+    }
+    .conwrit p {
+        
+        width: 324px;
+        margin: auto;
+    }
+    /* .parcent-dd h1 {
+        font-size: 44px;
+        
+        text-align: center;
+    } */
+    .parcent-dd {
+        margin-bottom: 36px;
+    }
+    .parcent-dd p {
+        color: white;
+        font-size: 16px;
+    }
+    .navbar-light .navbar-toggler {
+        position: relative;
+        bottom: 69px;
+    }
+    .navbar-collapse {
+        position: relative;
+        bottom: 72px;
+    }
+    .picc-ard img {
+        width: 349px;
+    }
+}
+
+
+
+
+

@@ -1,0 +1,101 @@
+.logo-did img{
+    width: 124px;
+}
+
+.header{
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.conwrit{
+    margin-top: 128px;
+}
+
+.conwrit h1{
+    font-size: 55px;
+    margin-top: 20px;
+}
+
+.philip{
+    background-color: #d5d5db;
+}
+
+/* next */
+.another{
+    margin-top: 52px;
+}
+
+.another h1{}
+
+
+
+
+/* nexttt */
+
+.progermer{
+    background-color: #8490ff;
+    padding: 117px;
+}
+
+.parcent-dd h1{
+    font-size: 66px;
+    color: white;
+}
+
+.parcent-dd p{
+    color: white;
+    font-size: 22px;
+}
+
+
+/* next */
+
+.carddd-secc{
+    background-color: #d5d5db;
+}
+
+.first-onen{
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+/* next */
+
+/* .jahonnn-doe{
+    margin-top: 100px;
+} */
+
+.anthe-box{
+    margin-top: 20px;
+}
+
+.pik-rtow img{
+    width: 123px;
+    position: relative;
+    top: 55px;
+    left: 19px;
+}
+
+.contact-frm{
+    background-color: #d5d5db;
+}
+
+.left-frr{
+    background-color: #f8f8fa;
+    padding: 33px 46px;
+}
+
+.new-another{
+    position: relative;
+    top: 151px;
+    left: 22px;
+}
+
+.new-ddd{
+    font-size: 22px;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+}
